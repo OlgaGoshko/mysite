@@ -1,0 +1,49 @@
+.service__rectan {
+    margin-top: 100px;
+}
+
+.content, .positions {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.content__title {
+    margin-top: 30px;
+    color: #52503B;
+    font-size: 32px;
+    line-height: 36px;
+}
+
+.content__item {
+    margin-top: 12px;
+    max-width: 500px;
+    color: #52503B;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.positions {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left, .right {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 100px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    margin-top: 32px;
+}
+
+.box__icon {
+    margin-right: 16px;
+}
+
+.side {
+    display: flex;
+    flex-direction: column;
+}

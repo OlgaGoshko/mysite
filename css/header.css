@@ -1,0 +1,43 @@
+.header {
+    background-color: #52503B;
+    
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.wrapper__header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 300;
+}
+
+.header__inner {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    max-height: 80px;
+}
+
+.header__nav {
+    flex: 1 0 auto;
+    margin-left: 345px;
+}
+
+.nav__list {
+    display: flex;
+
+}
+
+.nav__item {
+    margin-left: 24px;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
+.nav__item:first-child {
+    margin-left: 0px;
+}

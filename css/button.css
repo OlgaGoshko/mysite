@@ -1,0 +1,19 @@
+.header__button {
+    background-color: white;
+    color: #52503B;
+    padding: 11px 18px;
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+.about__button {
+    width: 107px;
+    height: 42px;
+    background-color: #52503B;
+    color: white;
+    padding: 11px 18px;
+    font-size: 14px;
+    line-height: 20px;
+    border-radius: 4px;
+    margin-top: 40px;
+}

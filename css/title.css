@@ -1,0 +1,18 @@
+.title {
+    max-width: 1200px;
+    text-align: center;
+}
+
+.title__item {
+    font-size: 16px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    line-height: 20px;
+}
+
+.title__main {
+    font-size: 32px;
+    color: #FFFFFF;
+    margin-bottom: 35px;
+    line-height: 52.8px
+}
